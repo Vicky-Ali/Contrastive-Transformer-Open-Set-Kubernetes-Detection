@@ -23,5 +23,5 @@ This work investigates an open-set detection approach in which:
 
 ```text
 .
-├── k8sFalcoContrastiveOOD.py
-└── k8sFalcoSupervisedOnlyMahalanobis.py
+├── k8s_falco_contrastive_ood_v2.py
+└── k8s_falco_supervised_only_mahalanobis_ablation.py
